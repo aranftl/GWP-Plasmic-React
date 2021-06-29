@@ -1,0 +1,303 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "js",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
+  },
+  "images": {
+    "scheme": "files",
+    "publicDir": "../../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+      "projectName": "New Figma Test",
+      "version": "latest",
+      "cssFilePath": "plasmic/new_figma_test/plasmic_new_figma_test.module.css",
+      "components": [
+        {
+          "id": "2oDxXLtuj9QP",
+          "name": "PricingTest",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicPricingTest.jsx",
+          "importSpec": {
+            "modulePath": "PricingTest.jsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicPricingTest.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "5NdmoXTPsJ9",
+          "name": "RwPriceCard",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicRwPriceCard.jsx",
+          "importSpec": {
+            "modulePath": "RwPriceCard.jsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicRwPriceCard.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "ZtlGG_EjHW",
+          "name": "RwButton",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicRwButton.jsx",
+          "importSpec": {
+            "modulePath": "RwButton.jsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicRwButton.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "aBVp1OdCVQ",
+          "name": "RwBanner",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicRwBanner.jsx",
+          "importSpec": {
+            "modulePath": "RwBanner.jsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicRwBanner.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "5Zh2jaWV88",
+          "name": "MobileControlright",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicMobileControlright.jsx",
+          "importSpec": {
+            "modulePath": "MobileControlright.jsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicMobileControlright.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "3pT1k967mK",
+          "name": "MobileControlleft",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicMobileControlleft.jsx",
+          "importSpec": {
+            "modulePath": "MobileControlleft.jsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicMobileControlleft.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "Rk1jRnXKDu",
+          "name": "Test",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicTest.jsx",
+          "importSpec": {
+            "modulePath": "Test.jsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicTest.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "yL-tGJImrp",
+          "name": "ProductHero",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicProductHero.jsx",
+          "importSpec": {
+            "modulePath": "ProductHero.jsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicProductHero.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "oDroFXNWeS",
+          "name": "ProductHeroPage",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicProductHeroPage.jsx",
+          "importSpec": {
+            "modulePath": "ProductHeroPage.jsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicProductHeroPage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        }
+      ],
+      "icons": [
+        {
+          "id": "3_Et6U0xfn5",
+          "name": "SeparatorIcon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__Separator.jsx"
+        },
+        {
+          "id": "pNiNdGhV783",
+          "name": "Rectangle712Icon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__Rectangle712.jsx"
+        },
+        {
+          "id": "L7BY_8YYtd",
+          "name": "Vector4Icon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__Vector4.jsx"
+        },
+        {
+          "id": "2fdrCWYF_HL",
+          "name": "Rectangle713Icon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__Rectangle713.jsx"
+        },
+        {
+          "id": "N-AzQaCnZa",
+          "name": "PlayIcon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__Play.jsx"
+        },
+        {
+          "id": "gXZ43R9hVV",
+          "name": "BackgroundContainerIcon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__BackgroundContainer.jsx"
+        },
+        {
+          "id": "_3kP6GXNUxL",
+          "name": "Rectangle1440Icon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__Rectangle1440.jsx"
+        },
+        {
+          "id": "TGuFyRPNZg4",
+          "name": "LegendMarkersDotIcon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__LegendMarkersDot.jsx"
+        },
+        {
+          "id": "3g-BxGx2QkV",
+          "name": "ConfirmationIcon132X132Icon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__ConfirmationIcon132X132.jsx"
+        },
+        {
+          "id": "7FIvi2vtdeb",
+          "name": "Line280Icon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__Line280.jsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "WIxE3HjXqT",
+          "name": "Vector",
+          "filePath": "plasmic/new_figma_test/images/vector.svg"
+        },
+        {
+          "id": "yduxNW4SAn",
+          "name": "Vector 2",
+          "filePath": "plasmic/new_figma_test/images/vector2.svg"
+        },
+        {
+          "id": "R4yyoFoEZ",
+          "name": "product-cut2 2",
+          "filePath": "plasmic/new_figma_test/images/productCut22.png"
+        },
+        {
+          "id": "8_uN8hc7oiB",
+          "name": "Play icon",
+          "filePath": "plasmic/new_figma_test/images/playIcon.svg"
+        },
+        {
+          "id": "ZRC8lGCI3a9",
+          "name": "Play icon 2",
+          "filePath": "plasmic/new_figma_test/images/playIcon2.svg"
+        },
+        {
+          "id": "b-d09jL9z",
+          "name": "Victoria_Atlanta_05_0049 2",
+          "filePath": "plasmic/new_figma_test/images/victoriaAtlanta0500492.jpeg"
+        },
+        {
+          "id": "jq3xrfSUZN",
+          "name": "nzilani-glass-conservation-13285-brand-photo-21 1",
+          "filePath": "plasmic/new_figma_test/images/nzilaniGlassConservation13285BrandPhoto211.jpeg"
+        },
+        {
+          "id": "q6zZ5mKGiZ",
+          "name": "Duke_Of_Uke_03_0108_R1 1",
+          "filePath": "plasmic/new_figma_test/images/dukeOfUke030108R11.jpeg"
+        },
+        {
+          "id": "5WzLonWzI7",
+          "name": "Tatty_Devine_08_0106_R3 1",
+          "filePath": "plasmic/new_figma_test/images/tattyDevine080106R31.jpeg"
+        },
+        {
+          "id": "0TWIFenhwl",
+          "name": "native-soil-landscaping-10260-brand-photo-21",
+          "filePath": "plasmic/new_figma_test/images/nativeSoilLandscaping10260BrandPhoto21.jpeg"
+        },
+        {
+          "id": "M52lmKj5bj",
+          "name": "revenue_stream",
+          "filePath": "plasmic/new_figma_test/images/revenueStream.png"
+        },
+        {
+          "id": "zgl51m40rB",
+          "name": "accounts_recievable",
+          "filePath": "plasmic/new_figma_test/images/accountsRecievable.png"
+        },
+        {
+          "id": "Ixa66ZJcf7",
+          "name": "expenses",
+          "filePath": "plasmic/new_figma_test/images/expenses.png"
+        },
+        {
+          "id": "B21kOZykQS",
+          "name": "net_profit",
+          "filePath": "plasmic/new_figma_test/images/netProfit.png"
+        },
+        {
+          "id": "LFPUKmNURTZ",
+          "name": "Group",
+          "filePath": "plasmic/new_figma_test/images/group.svg"
+        },
+        {
+          "id": "ABlBZhVPxdV",
+          "name": "Dasehd lines",
+          "filePath": "plasmic/new_figma_test/images/dasehdLines.svg"
+        },
+        {
+          "id": "qg-dHt-g6WR",
+          "name": "Dashed lines",
+          "filePath": "plasmic/new_figma_test/images/dashedLines.svg"
+        }
+      ],
+      "codeComponents": [],
+      "projectApiToken": "mp1TMhNBlXuAAtjs6lVC2LqbP0N5gtzBUrKvpsEkOENJBmQ1fUSifat1LEMPGQLjNCTjf4NzHDFfjjktg"
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "b0t-W0BM_nt_",
+        "name": "Screen",
+        "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+        "contextFilePath": "plasmic/new_figma_test/PlasmicGlobalVariant__Screen.jsx"
+      }
+    ]
+  },
+  "cliVersion": "0.1.157",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.157/dist/plasmic.schema.json"
+}
